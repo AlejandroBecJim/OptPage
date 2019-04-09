@@ -1,0 +1,8 @@
+*{font-family: 'Open Sans', sans-serif}h2{color: rgb(15, 70, 187);margin:5px;}.color-subtitle{color:#456;}.row{margin-left: -15px;margin-right: -15px;margin-bottom: 10px;}.row:after{clear: both; display: table;content:"";}.container{ margin-right: auto;margin-left: auto;padding-left: 15px;padding-right: 15px;}.col-0{ width: 0%; height: auto; margin:0px; padding:3px;}.col-1{ width: 10%; height: auto; margin:0px; padding:3px;}.col-2{ width: 20%; height: auto; margin:0px; padding:3px;}.col-3{ width: 30%; height: auto; margin:0px; padding:3px;}.col-4{ width: 40%; height: auto; margin:0px; padding:3px;}.col-5{ width: 50%; height: auto; margin:0px; padding:3px;}.col-6{ width: 60%; height: auto; margin:0px; padding:3px;}.col-7{ width: 70%; height: auto; margin:0px; padding:3px;}.col-8{ width: 80%; height: auto; margin:0px; padding:3px;}.col-9{ width: 90%; height: auto; margin:0px; padding:3px;}.col-10{ width: 100%; height: auto; margin:0px; padding:3px;}.col-0,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10{ float: left;}.col-1-offset{ margin-left: 10%; }.col-2-offset{ margin-left: 20%; }.col-3-offset{ margin-left: 30%; }.col-4-offset{ margin-left: 40%;}.col-5-offset{ margin-left: 50%; }.col-6-offset{ margin-left: 60%;}.col-7-offset{margin-left: 70%;}.col-8-offset{ margin-left: 80%; }.col-9-offset{margin-left: 90%;}.center{ text-align: center;}.vertical-align{ display: flex; justify-content: center; align-items: center;}.img-v-md{ width: 7em; height: 9em; }.img-v-xs{ width: 5em; height: 5em;}.img-rounded{ border-radius: 50%; }.panel-resalt{ width: 100%; padding: 2em; background-color: #f8f8f8; font-size: 1.2em; border-bottom: 1px solid #ccc;border-top: 1px solid #ccc;}
+
+ 
+
+
+
+
+
