@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#miImage").on("click",function(){$("#mostrar").text("Hello my friend");});});
